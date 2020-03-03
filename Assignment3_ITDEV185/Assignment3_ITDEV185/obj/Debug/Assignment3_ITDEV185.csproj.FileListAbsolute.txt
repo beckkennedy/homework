@@ -1,0 +1,6 @@
+C:\Users\beck\Source\Repos\Assignment3_ITDEV185\Assignment3_ITDEV185\obj\Debug\Assignment3_ITDEV185.csprojAssemblyReference.cache
+C:\Users\beck\Source\Repos\Assignment3_ITDEV185\Assignment3_ITDEV185\bin\Debug\Assignment3_ITDEV185.exe.config
+C:\Users\beck\Source\Repos\Assignment3_ITDEV185\Assignment3_ITDEV185\bin\Debug\Assignment3_ITDEV185.exe
+C:\Users\beck\Source\Repos\Assignment3_ITDEV185\Assignment3_ITDEV185\bin\Debug\Assignment3_ITDEV185.pdb
+C:\Users\beck\Source\Repos\Assignment3_ITDEV185\Assignment3_ITDEV185\obj\Debug\Assignment3_ITDEV185.exe
+C:\Users\beck\Source\Repos\Assignment3_ITDEV185\Assignment3_ITDEV185\obj\Debug\Assignment3_ITDEV185.pdb

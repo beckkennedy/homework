@@ -1,0 +1,6 @@
+C:\Users\beck\Source\Repos\kennedy_Assignment4\kennedy_Assignment4\bin\Debug\kennedy_Assignment4.exe.config
+C:\Users\beck\Source\Repos\kennedy_Assignment4\kennedy_Assignment4\bin\Debug\kennedy_Assignment4.exe
+C:\Users\beck\Source\Repos\kennedy_Assignment4\kennedy_Assignment4\bin\Debug\kennedy_Assignment4.pdb
+C:\Users\beck\Source\Repos\kennedy_Assignment4\kennedy_Assignment4\obj\Debug\kennedy_Assignment4.csprojAssemblyReference.cache
+C:\Users\beck\Source\Repos\kennedy_Assignment4\kennedy_Assignment4\obj\Debug\kennedy_Assignment4.exe
+C:\Users\beck\Source\Repos\kennedy_Assignment4\kennedy_Assignment4\obj\Debug\kennedy_Assignment4.pdb
